@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GeorgiPayov
-- 👀 I’m interested in blockchain, motorcycles, video games ...
-- 🌱 I’m currently learning C#, HTML & CSS and Angular.
+- 👋 Hi, I’m @GeorgiPayov!
+- 👀 I’m interested in Blockchain, motorcycles, video games and more.
+- 🌱 I’m currently learning C#, Angular, HTML & CSS, TypeScript, JavaScript and Java.
 - 📫 You can reach me on email - paiov1995@gmai.com.
 
 <!---
